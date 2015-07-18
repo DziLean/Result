@@ -1,0 +1,37 @@
+﻿  myfunc.cpp
+f:\иб\курс\итог\mysnif\snif\myfunc.cpp(5): warning C4005: 'INTERFACE' : macro redefinition
+          c:\program files (x86)\windows kits\8.1\include\um\commdlg.h(954) : see previous definition of 'INTERFACE'
+f:\иб\курс\итог\mysnif\snif\myfunc.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+f:\иб\курс\итог\mysnif\snif\myfunc.cpp(148): warning C4018: '<' : signed/unsigned mismatch
+f:\иб\курс\итог\mysnif\snif\myfunc.cpp(231): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+f:\иб\курс\итог\mysnif\snif\myfunc.cpp(353): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+f:\иб\курс\итог\mysnif\snif\myfunc.cpp(365): warning C4018: '<' : signed/unsigned mismatch
+  main.cpp
+f:\иб\курс\итог\mysnif\snif\main.cpp(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+f:\иб\курс\итог\mysnif\snif\main.cpp(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+f:\иб\курс\итог\mysnif\snif\main.cpp(99): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+f:\иб\курс\итог\mysnif\snif\main.cpp(100): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : see declaration of 'inet_addr'
+f:\иб\курс\итог\mysnif\snif\main.cpp(101): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+f:\иб\курс\итог\mysnif\snif\main.cpp(102): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : see declaration of 'inet_addr'
+f:\иб\курс\итог\mysnif\snif\main.cpp(103): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+f:\иб\курс\итог\mysnif\snif\main.cpp(104): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : see declaration of 'inet_addr'
+f:\иб\курс\итог\mysnif\snif\main.cpp(105): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+f:\иб\курс\итог\mysnif\snif\main.cpp(106): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : see declaration of 'inet_addr'
+f:\иб\курс\итог\mysnif\snif\main.cpp(130): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+  Generating Code...
+f:\иб\курс\итог\mysnif\snif\myfunc.cpp(429): warning C4700: uninitialized local variable 't' used
+f:\иб\курс\итог\mysnif\snif\myfunc.cpp(623): warning C4715: 'MyThreadForWorkAndDump' : not all control paths return a value
+  snif.vcxproj -> F:\ИБ\курс\ИТОГ\mysnif\Debug\mysnif.exe
